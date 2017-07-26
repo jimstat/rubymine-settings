@@ -11,9 +11,9 @@
           </indentOptions>
         </codeStyleSettings>
         <codeStyleSettings language="ruby">
-          <option name="INDENT_WHEN_CASES" value="false" />
-          <option name="SPACE_WITHIN_BRACES" value="true" />
-          <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
+          <option name="INDENT_WHEN_CASES" value="true" />
+          <option name="SPACE_WITHIN_BRACES" value="false" />
+          <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="false" />
         </codeStyleSettings>
       </value>
     </option>
