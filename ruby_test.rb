@@ -3,4 +3,6 @@ def test_indents
   not_okd = 'too much indent'
   'this will '\
       'continute'
+
+  my_hash = { boo: 'do' }
 end
