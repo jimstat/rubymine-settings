@@ -8,4 +8,6 @@ def test_indents
 
 
   this_is_a_dif = {dif:"ooo"}
+
+  second_dif ={ddd:"fail me"}
 end
