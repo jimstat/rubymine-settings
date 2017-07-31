@@ -11,3 +11,8 @@ def test_indents
 
   second_dif ={ddd:"fail me"}
 end
+
+
+def j
+  "not very useful name"
+end
