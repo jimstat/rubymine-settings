@@ -6,3 +6,7 @@ function somefn() {
 }
 
 somefn();
+
+var f = function(){
+  return "foo"
+}
