@@ -5,4 +5,7 @@ def test_indents
       'continute'
 
   my_hash = { boo: 'do' }
+
+
+  this_is_a_dif = {dif:"ooo"}
 end

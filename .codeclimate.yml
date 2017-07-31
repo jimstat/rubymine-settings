@@ -16,4 +16,6 @@ ratings:
   paths:
   - "**.js"
   - "**.rb"
-exclude_paths: []
+exclude_paths:
+- "node_modules/"
+- ".idea/"
